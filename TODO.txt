@@ -1,2 +1,2 @@
 All base designs
-Update Lithoid and Necroid with new aetherophasic Engine and Star eater
+Update Necroid with new aetherophasic Engine and Star eater
